@@ -1,7 +1,4 @@
-STOCK TRACK ANDROID APPLICATION – HIMANSHU ARORA
-Whole Project Diagram:
-
-See Project_Diagram_Android-Web image in the repository.
+STOCK TRACK ANDROID APPLICATION – Himanshu Arora
 
 Project Description:
 The Application displays financial information about different companies listed at New York Stock Exchange. It displays different types of stock prices of the day, previous week, company information searched and news sentiment of the stocks of the company which would help an investor to take better decisions where to invest or not. 
